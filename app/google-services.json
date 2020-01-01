@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026940310866",
+    "firebase_url": "https://material-e45eb.firebaseio.com",
+    "project_id": "material-e45eb",
+    "storage_bucket": "material-e45eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026940310866:android:5765644d91f694f2a6968b",
+        "android_client_info": {
+          "package_name": "com.example.material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026940310866-u86bv6q6brqiqgnmcf1v88580jqtvasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpwaFXe9Y3pSYv68vpS88sQdW7qSynvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026940310866-u86bv6q6brqiqgnmcf1v88580jqtvasb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
